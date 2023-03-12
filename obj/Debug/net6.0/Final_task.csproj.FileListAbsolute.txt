@@ -1,0 +1,15 @@
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/bin/Debug/net6.0/Final_task
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/bin/Debug/net6.0/Final_task.deps.json
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/bin/Debug/net6.0/Final_task.runtimeconfig.json
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/bin/Debug/net6.0/Final_task.dll
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/bin/Debug/net6.0/ref/Final_task.dll
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/bin/Debug/net6.0/Final_task.pdb
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/obj/Debug/net6.0/Final_task.csproj.AssemblyReference.cache
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/obj/Debug/net6.0/Final_task.GeneratedMSBuildEditorConfig.editorconfig
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/obj/Debug/net6.0/Final_task.AssemblyInfoInputs.cache
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/obj/Debug/net6.0/Final_task.AssemblyInfo.cs
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/obj/Debug/net6.0/Final_task.csproj.CoreCompileInputs.cache
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/obj/Debug/net6.0/Final_task.dll
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/obj/Debug/net6.0/ref/Final_task.dll
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/obj/Debug/net6.0/Final_task.pdb
+/home/ssvadmin/Документы/Final_test_work_1/Final_task/obj/Debug/net6.0/Final_task.genruntimeconfig.cache
